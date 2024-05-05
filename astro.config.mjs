@@ -6,5 +6,6 @@ import react from "@astrojs/react";
 // https://astro.build/config
 export default defineConfig({
   // integrations: [tailwind(), react()]
-  integrations: [react()]
+  integrations: [react()],
+  outDir: './docs'
 });

@@ -7,7 +7,7 @@ function Header() {
     return (
         <header>
             <div className="left">
-                <img src="/pp.png" class="pp" alt="pp" />                
+                <img src="pp.png" class="pp" alt="pp" />                
             </div>
             <div className="right">
                 <span class="name">{me.firstname} {me.lastname}</span>
