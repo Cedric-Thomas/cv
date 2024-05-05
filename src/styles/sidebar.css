@@ -1,0 +1,50 @@
+.sidebar {
+    width: 180pt;
+    margin-right: 10px;
+    padding: 8px;
+    font-size: 10pt;
+}
+
+.sidebar > div, div.skills {
+    margin-left: 28px;
+}
+
+.sidebar > .section {
+    margin: 11px 0;
+    font-size: 12pt;
+}
+
+.comment {
+    font-size: 10pt;
+    font-style: italic;
+    color: #9a9996;
+}
+
+.details {
+    font-size: 8pt;
+}
+
+.subsection svg {
+    width: 16px;
+    margin-right: 3px;
+}
+
+.subsection {
+    display: flex;
+    align-items: center;
+    font-size: 11pt;
+    margin: 6px 10px;
+}
+
+.sublist {
+    margin: 2px 0;
+}
+
+
+.section.lang {
+    margin-top: 22px;
+}
+
+.section.interests {
+    margin-top: 24px;
+}

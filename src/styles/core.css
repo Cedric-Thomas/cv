@@ -1,0 +1,83 @@
+* {
+    box-sizing: border-box;
+}
+
+@page {
+    size: A4;
+    margin: 0;
+}
+
+body {
+    margin: 0;
+    display: flex;
+	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	background-size: 400% 400%;
+	animation: gradient 240s ease infinite;
+    font-family: 'SF Pro Display', system-ui, sans-serif;   
+}
+
+.bold { font-weight: bold; }
+.italic { font-style: italic; }
+p, ul { margin: 0; }
+
+p {
+    font-size: 10pt;
+    text-align: justify;
+}
+
+.page {
+    display: flex;
+    flex-direction: column;
+    margin: 24px auto;
+    padding: 22pt 30pt;
+    width: 210mm;
+    height: 297mm;
+    background-color: white;
+    overflow: hidden;
+    border-radius: 5px;
+    box-shadow: 0 25px 50px -12px rgb(0 0 0 / 0.25);
+}
+
+.root-container {
+    flex: 1;
+    display: flex;
+}
+
+svg {
+    height: 22px;
+    width: auto;
+}
+
+.github {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end ;
+    font-size: 9pt;
+    font-style: italic;
+    color: #c0bfbc;
+}
+
+.github svg {
+    width: 14px;
+    margin-right: 4px;
+}
+
+@media print {
+    .page {
+        margin: 0;
+        border-radius: 0;
+        box-shadow: none;
+    }
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}

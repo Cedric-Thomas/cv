@@ -1,0 +1,170 @@
+{
+    "data": {
+        "me": {
+            "firstname": "Cédric",
+            "lastname": "THOMAS",
+            "mail": "cedric•thomas꩜protonmail•com",
+            "address": "Assé-le-boisne, 72130",
+            "linkedin": "/in/cedric-thomas",
+            "github": "cedric-thomas"
+        },
+        "experiences": [
+            {
+                "company": "NXO",
+                "title": "Expert Projet Cybersécurité",
+                "city": "Caen",
+                "start": "Sept. 2020",
+                "end": "Octo. 2023",
+                "tasks": [
+                    "Déploiement de pare-feu (est-ouest, nord-sud) Fortinet & Stormshield",
+                    "Formateur cyber sur des environements Stormshield",
+                    "Conseil en architecture réseau et sécurité pour des PME",
+                    "Mise en oeuvre du cadre 27001 et Elastic Stack",
+                    "Automatisation des opérations de maintenance (NetOps) et supervision MAN"
+                ]
+            },
+            {
+                "company": "Axians",
+                "title": "Technicien Réseaux & Télécoms",
+                "city": "Le Mans",
+                "start": "Sept. 2018",
+                "end": "Aout 2020",
+                "tasks": [
+                    "Réseau d'Entreprise (LAN) (Alcatel, Cisco, Aruba)",
+                    "Systèmes (Windows Server, EON, ESXi)",
+                    "Téléphonie (OXO, OXE)"
+                ]
+            },
+            {
+                "company": "MPO",
+                "title": "Technicien Pré-mastering, Mastering",
+                "city": "Villaines-la-Juhel",
+                "start": "Mai 2018",
+                "end": "Aout 2018",
+                "tasks": [
+                    "Exploitation des processus de pré-mastering & mastering sur des supports DVD, CD, Blu-Ray.",
+                    "Développement d'un applicatif métier pour l'optimisation des processus internes."
+                ]
+            }
+        ],
+        "formations": [
+            {
+                "university": "UQO",
+                "diploma": "Diplômes d'études supérieures spécialisées en cybersécurité",
+                "city": "Gatineau, Québec",
+                "start": "Janv. 2024",
+                "end": "Avril 2024"
+            },
+            {
+                "university": "CESI",
+                "diploma": "Master manager en infrastructure et cybersécurité des systèmes d'information",
+                "city": "Hérouville-Saint-Clair",
+                "start": "Sept. 2021",
+                "end": "Octo. 2023"
+            },
+            {
+                "university": "IUT Grand Ouest, Campus 3",
+                "diploma": "Licence audit et sécurité des réseaux et des systèmes d'information",
+                "city": "Ifs",
+                "start": "Sept. 2020",
+                "end": "Aout. 2021"
+            },
+            {
+                "university": "IUT Grand Ouest, Campus 3",
+                "diploma": "DUT réseaux & télécommunications",
+                "city": "Ifs",
+                "start": "Sept. 2018",
+                "end": "Aout 2020"
+            }
+        ],
+        "certifications": [
+            {
+                "title": "Participation Worldskills France",
+                "start": "Mars 2020",
+                "end": "Déce. 2020",
+                "description": "Champion régional normand: N°39 Administration des systèmes & réseaux informatiques, préparation à la compétition national."
+            },
+            {
+                "title": "Certified Stormshield Network Administrator",
+                "start": "Juin 2020",
+                "end": ""
+            }
+        ],
+        "skills": {
+            "network": [
+                {"Cisco": [
+                    "DNA Center,",
+                    "Cisco Prime"
+                ]},
+                {"Alcatel": [
+                    "Omnivista 2500,",
+                    "Switch"
+                ]},
+                {"Aruba": [
+                    "AirWave",
+                    "Switch & Routeur"
+                ]},
+                "HP","Huawei","Arista","VyOS",
+                "MPLS","OSPF","i/eBGP","SDN"
+            ],
+            "system": [
+                {"Windows Server": [
+                    "AD,","Azure,","IIS,","DHCP,",
+                    "DNS,","iSCSI,","Hyper-V,", "..."
+                ]},
+                {"Linux": [
+                    "Docker,","KVM,","Proxmox,","RHEL,",
+                    "Nginx,","OpenVPN,","SQL Server,",
+                    "CEPH,","ZFS,","Asterisk,","..."
+                ]},
+                {"VMware": [
+                    "ESXi,", "vCenter,", "vSAN"
+                ]},
+                {"Nutanix": [
+                    "AHV,", "AOS"
+                ]} 
+            ],
+            "cyber": [
+                {"Stormshield": [
+                    "SNS,", "SMC"
+                ]},
+                {"Fortinet": [
+                    "FortiGate,", "FortiManager,",
+                    "FortiAnalyzer,", "FortiSwitch,",
+                    "FortiAP"
+                ]},
+                {"Palo Alto": [
+                    "NGFW,", "Cortex XDR"
+                ]},
+                "Elastic Stack,", "OpenCTI & MISP,",
+                "Wazuh,", "Snort & Zeek",
+                {"Pentest": [
+                    "Nmap,", "Metasploit,", "BloodHound,", "Nessus,",
+                    "Gobuster,", "SQLMap"
+                ]}
+            ],
+            "programming": [
+                "Ruby,","React.js,","SQL,","Node,",
+                "Golang,","Python,","LaTeX"
+            ]
+        },
+        "languages": [
+            {
+                "lang": "Francais",
+                "level": "natif"
+            },
+            {
+                "lang": "Anglais",
+                "level": "bilingue",
+                "comment": "(940 TOIEC)"
+            },
+            {
+                "lang": "Espagnol",
+                "level": "notions"
+            }
+        ],
+        "interests": [
+            "Création audiovisuel", "Photographie", "CTF/Hackathon"
+        ] 
+    }
+}
