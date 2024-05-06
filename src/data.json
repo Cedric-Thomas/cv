@@ -17,7 +17,7 @@
                 "end": "Octo. 2023",
                 "tasks": [
                     "Déploiement de pare-feu (est-ouest, nord-sud) Fortinet & Stormshield",
-                    "Formateur cyber sur des environements Stormshield",
+                    "Formateur cyber sur des environnements Stormshield",
                     "Conseil en architecture réseau et sécurité pour des PME",
                     "Mise en oeuvre du cadre 27001 et Elastic Stack",
                     "Automatisation des opérations de maintenance (NetOps) et supervision MAN"
@@ -50,7 +50,7 @@
         "formations": [
             {
                 "university": "UQO",
-                "diploma": "Diplômes d'études supérieures spécialisées en cybersécurité",
+                "diploma": "Diplôme d'études supérieures spécialisées en cybersécurité",
                 "city": "Gatineau, Québec",
                 "start": "Janv. 2024",
                 "end": "Avril 2024"
@@ -82,7 +82,7 @@
                 "title": "Participation Worldskills France",
                 "start": "Mars 2020",
                 "end": "Déce. 2020",
-                "description": "Champion régional normand: N°39 Administration des systèmes & réseaux informatiques, préparation à la compétition national."
+                "description": "Champion régional Normand : N°39 Administration des systèmes & réseaux informatiques, préparation à la compétition nationale."
             },
             {
                 "title": "Certified Stormshield Network Administrator",
@@ -164,7 +164,7 @@
             }
         ],
         "interests": [
-            "Création audiovisuel", "Photographie", "CTF/Hackathon"
+            "Création audiovisuelle", "Photographie", "CTF/Hackathon"
         ] 
     }
 }
