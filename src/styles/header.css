@@ -52,6 +52,7 @@ a:hover {
     font-size: 22pt;
     height: 18px;
     letter-spacing: -14pt;
+    font-family: 'consolas, monospace';
     color: #f6f5f4;
     overflow: hidden;
 }
