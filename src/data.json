@@ -10,6 +10,18 @@
         },
         "experiences": [
             {
+                "company": "CUA",
+                "title": "Ingénieur systèmes et réseaux",
+                "city": "Alençon",
+                "start": "Aout. 2024",
+                "end": "Aujourd'hui",
+                "tasks": [
+                    "Pilotage technique de projet d'évolution d'applicatifs internes et métiers",
+                    "Gestion technique des clusters Hyper-V, des systèmes de stockage, des éléments de sécurité",
+                    "Mise en oeuvre de la segmentation réseau et du durcissement du S.I au travers des référenciels ANSSI"
+                ]
+            },
+            {
                 "company": "NXO",
                 "title": "Expert Projet Cybersécurité",
                 "city": "Caen",
@@ -31,19 +43,7 @@
                 "end": "Aout 2020",
                 "tasks": [
                     "Réseau d'Entreprise (LAN) (Alcatel, Cisco, Aruba)",
-                    "Systèmes (Windows Server, EON, ESXi)",
-                    "Téléphonie (OXO, OXE)"
-                ]
-            },
-            {
-                "company": "MPO",
-                "title": "Technicien Pré-mastering, Mastering",
-                "city": "Villaines-la-Juhel",
-                "start": "Mai 2018",
-                "end": "Aout 2018",
-                "tasks": [
-                    "Exploitation des processus de pré-mastering & mastering sur des supports DVD, CD, Blu-Ray.",
-                    "Développement d'un applicatif métier pour l'optimisation des processus internes."
+                    "Systèmes (Windows Server, EON, ESXi)"
                 ]
             }
         ],
@@ -79,15 +79,16 @@
         ],
         "certifications": [
             {
+                "title": "Participation Worldskills International, Lyon 2024",
+                "start": "Janv. 2024",
+                "end": "Sept. 2024",
+                "description": "Workshop Manager Assistant, mise en oeuvre de l'infrastructure du métier N°39 pour la compétition internationale."
+            },
+            {
                 "title": "Participation Worldskills France",
                 "start": "Mars 2020",
                 "end": "Déce. 2020",
                 "description": "Champion régional Normand : N°39 Administration des systèmes & réseaux informatiques, préparation à la compétition nationale."
-            },
-            {
-                "title": "Certified Stormshield Network Administrator",
-                "start": "Juin 2020",
-                "end": ""
             }
         ],
         "skills": {

@@ -41,7 +41,7 @@ function Main() {
             </span>
 
             <div className="formations">
-                {formations.slice(0,3).map((item, idx) => (
+                {formations.slice(0,2).map((item, idx) => (
                     <React.Fragment key={idx}>
                         <span className="date">{item.start} - {item.end}</span>
                         <div className="container">
